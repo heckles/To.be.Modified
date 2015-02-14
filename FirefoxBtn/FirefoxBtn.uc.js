@@ -1,5 +1,5 @@
 // ==UserScript==
-// @label FirefoxBtn.uc.js
+// @label  FirefoxBtn.uc.js
 // @description 
 // @labelspace
 // @author Oos
